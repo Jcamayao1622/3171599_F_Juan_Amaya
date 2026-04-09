@@ -1,4 +1,4 @@
-# 🌾 Agrotech Platform
+# 🌾 Plataforma de maquinaria agrícola | Agrotech
 
 Sistema de gestión de maquinaria agrícola desarrollado con TypeScript.
 
