@@ -1,24 +1,36 @@
-# Semana 01 - TypeScript
+# 🌾 Agrotech Platform
 
-## Proyecto: Agrotech
+Sistema de gestión de maquinaria agrícola desarrollado con TypeScript.
 
-Sistema básico de gestión de maquinaria agrícola usando TypeScript.
+---
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
-- Crear maquinaria
-- Listar maquinaria
-- Actualizar maquinaria
-- Eliminar maquinaria
+✔️ Crear maquinaria  
+✔️ Listar maquinaria  
+✔️ Actualizar estado  
+✔️ Eliminar maquinaria  
 
-## Conceptos aplicados
+---
 
-- Interfaces
-- Types (union)
-- Funciones tipadas
-- Parámetros por defecto
-- Utility Types (Partial)
+## 🧠 Conceptos Aplicados
 
-## Ejecución
+🔹 Interfaces  
+🔹 Types (Union Types)  
+🔹 Funciones tipadas  
+🔹 Parámetros por defecto  
+🔹 Utility Types (`Partial`)  
 
+---
+
+## ⚙️ Tecnologías
+
+🟦 TypeScript  
+📦 pnpm  
+
+---
+
+## ▶️ Ejecución
+
+```bash
 npx ts-node index.ts
